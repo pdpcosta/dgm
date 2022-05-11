@@ -17,8 +17,6 @@ poderão de fato ser implementados ou não. Espera-se que tais mudanças e os ob
 
 Para a entrega E2, o README.md do repositório deve ser formatado prevendo o formato de entrega final do projeto [segundo o modelo disponibilizado neste link](https://github.com/pdpcosta/dgm/blob/main/templates/E2-E3_template.md).
 
-Tudo o que for indicado entre `<...>` indica algo que deve ser substituído pelo indicado. No modelo são colocados exemplos ilustrativos, que serão substituídos pelos do seu projeto.
-
 ## Estrutura do Repositório
 
 A fim de uniformizar os repositórios de projetos da disciplina, sugere-se que os diretórios do repositório sejam nomeados segundo a estrutura sugerida em [Home - Cookiecutter Data Science](https://drivendata.github.io/cookiecutter-data-science/), na seção "Directory structure".
