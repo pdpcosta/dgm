@@ -7,7 +7,8 @@ O objetivo geral do projeto final desta disciplina é dar a oportunidade de impl
 Na segunda entrega do projeto, seu grupo deverá:
 
  - Criar uma tag release 2022.1_IA376L_E2;
- - Atualizar o arquivo README.md do repositório encaminhando-o para o formato final, que servirá como relatório final de projeto.
+ - Atualizar o arquivo README.md do repositório encaminhando-o para o formato final, que servirá como relatório final de projeto;
+ - Preparar-se para uma apresentação de no máximo 10 minutos sobre o status atual do projeto.
 
 Nesta segunda entrega do projeto é esperado que o tema inicialmente proposto já tenha sido explorado de maneira teórica e prática.
 Como resultado dessa exploração, é possível que você/seu grupo tenham decidido alterar o escopo do projeto ou tenham maior clareza de quais métodos inicialmente propostos
