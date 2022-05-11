@@ -1,4 +1,4 @@
-# 2022.1 IA376L - Projeto - Primeira Entrega (E1)
+# 2022.1 IA376L - Projeto - Segunda Entrega - Checkpoint (E2)
 
 ## Instruções Gerais
 
