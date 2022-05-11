@@ -15,7 +15,7 @@ oferecida no primeiro semestre de 2022, na Unicamp, sob supervisão da Profa. Dr
 
 ## Resumo (Abstract)
 
-< Resumo do objetivo, metodologia **e resultados** obtidos. Sugere-se máximo de 100 palavras.>
+<... Resumo do objetivo, metodologia **e resultados** obtidos. Sugere-se máximo de 100 palavras. >
 
 ## Descrição do Problema/Motivação
 
