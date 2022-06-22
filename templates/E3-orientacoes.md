@@ -11,7 +11,7 @@ Na entrega final do seu projeto, deve-se:
 
 ## Orientações para edição do arquivo README.md do projeto
 
-Para a entrega E3, o README.md do repositório deve ser formatado prevendo o formato de entrega final do projeto [segundo o modelo disponibilizado neste link](https://github.com/pdpcosta/dgm/blob/main/templates/E2-E3_template.md).
+Para a entrega E3, o README.md do repositório deve conter as seções previstas no modelo de entrega final do projeto [disponibilizado neste link](https://github.com/pdpcosta/dgm/blob/main/templates/E2-E3_template.md).
 
 ## Estrutura do Repositório
 
@@ -19,4 +19,3 @@ A fim de uniformizar os repositórios de projetos da disciplina, sugere-se que o
 
 Note que nem todos os diretórios ou arquivos serão necessários para todos os projetos. Foque em seguir o padrão para os diretórios que forem necessários. Não crie diretórios que não serão utilizados.
 
-Seu repositório deverá obrigatoriamente conter o arquivo README.md, arquivo de documentação Markdown, que deverá conter a descrição do projeto conforme orientações a seguir.
